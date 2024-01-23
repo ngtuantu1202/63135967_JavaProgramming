@@ -1,7 +1,7 @@
 package Buoi1;
 import java.util.Scanner;
 
-public class App {
+public class TenTuoi {
 	public static void main(String[] args) {
 		int namSinh;
 		String hoTen;
